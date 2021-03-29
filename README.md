@@ -2,7 +2,7 @@
 - 👀 I’m interested in building softwares and programming
 - 🌱 I’m currently learning cloud computing
 - 💞️ I’m looking to collaborate on working towards being a top experienced developer
-- 📫 How to reach me...successnyameni@gmail.com
+- 📫 How to reach me... successnyameni@gmail.com
 
 - I have completed a Bsc computer science and electronics degree as well as a Systems development ceritificate.
 I have experince working with C# as I have completed 2 projects so far using .Net WPF forms for a windows application as well as .Net Xamarin forms for a mobile application.
