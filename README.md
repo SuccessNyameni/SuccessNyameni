@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on working towards being a top experienced developer
 - 📫 How to reach me... successnyameni@gmail.com
 
-Qualificvations.
+Qualifications.
 Bsc Computer Science and Electronics.
 National Certificate: Information Technology: Systems Development
 Microsoft: Azure Fundamentals.
