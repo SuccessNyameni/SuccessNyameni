@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @SuccessNyameni
-- 👀 I’m interested in building softwares and programming
+- 👀 I’m interested in programming, building softwares and Data.
 - 🌱 I’m currently learning cloud computing
 - 💞️ I’m looking to collaborate on working towards being a top experienced developer
 - 📫 How to reach me... successnyameni@gmail.com
